@@ -1,0 +1,3 @@
+1010,Sameh,emp1pass,10000
+1011,Haitham,emp2pass,10000
+1012,Rawan,emp3pass,10000
